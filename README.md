@@ -2,7 +2,7 @@
 
 ## Instructions for game:
 
-#### Using your keyboard or Mouse, move the paddle left to right to bounce the ball and keep it from falling.
+#### Using your keyboard or Mouse , move the paddle left to right to bounce the ball and keep it from falling.
 #### Try to hill all the bricks before your lives run out.
 
 ## Concept
